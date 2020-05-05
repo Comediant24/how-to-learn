@@ -1,0 +1,6 @@
+@import url(./_theme/table__cell_theme_dark.css);
+@import url(./_theme/table__cell_theme_default.css);
+
+.table__cell:last-child {
+  margin-right: 0;
+}
